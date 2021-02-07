@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lucene-analyzers-common-8.6.2" level="project" />
+    <orderEntry type="library" name="lucene-core-8.6.2" level="project" />
+    <orderEntry type="library" name="lucene-queryparser-8.6.2" level="project" />
+    <orderEntry type="library" name="opennlp-maxent-3.0.3" level="project" />
+    <orderEntry type="library" name="opennlp-tools-1.8.3" level="project" />
+    <orderEntry type="library" name="lucene-analyzers-opennlp-8.6.2" level="project" />
+  </component>
+</module>

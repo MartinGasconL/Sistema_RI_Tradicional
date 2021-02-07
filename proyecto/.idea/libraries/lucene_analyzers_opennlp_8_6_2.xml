@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lucene-analyzers-opennlp-8.6.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/lucene-8.6.2/analysis/opennlp/lucene-analyzers-opennlp-8.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
